@@ -1,0 +1,21 @@
+spring boot 读取yml文件：https://blog.csdn.net/clementad/article/details/51970962
+
+yaml基本语法：https://blog.csdn.net/vincent_hbl/article/details/75411243  
+              http://www.ruanyifeng.com/blog/2016/07/yaml.html     
+
+gson:https://www.cnblogs.com/majay/p/6336918.html
+
+学redis:redis在线入门 ： 
+http://try.redis.io/redis 
+
+中文资料站： http://www.redis.cn/redis 
+
+命令手册： http://www.redisdoc.com/en/latest/index.html
+
+使用gradle+springboot+vue.js:https://segmentfault.com/a/1190000008968295
+springboot+vue实现后端分离：https://www.cnblogs.com/nele/p/7858581.html
+路由配置：https://jingyan.baidu.com/article/f25ef254a872a6482c1b82fb.html
+
+搭建文件服务器：https://github.com/PopFisher/FTPSync/blob/master/ftp_context.md
+
+SpringCloud五脏六腑：http://www.importnew.com/28514.html
